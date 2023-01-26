@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @lexer20
 - 👀 I’m interested in cyber security as an offensive guy i do python and C programming language 
 - 🌱 I’m currently learning recon-ng, maltego, nessus, zmap, c programming
-- 💞️ I’m looking to collaborate on cyber security issues, python and c programming languag
+- 💞️ I’m looking to collaborate on cyber security issues, python and c programming language
+- a student at alx doing software engeniering
+- tech adict!!!
 - 📫 How to reach me email @ muriithidennis340@gmail.com
 
 <!---
