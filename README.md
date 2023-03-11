@@ -79,9 +79,20 @@
   <summary>:zap: <b>Github Stats</b></summary>
 
   [![DennisMuriithi's github stats](https://github-readme-stats.dennismuriithi.vercel.app/api?username=nirbhayvashisht&show_icons=true)](https://github.com/lexer20/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.dennismurithi.vercel.app/api/top-langs/?username=nirbhayvashisht&layout=compact&langs_count=6)](https://github.com/lexer20/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.dennismurithi.vercel.app/api/top-langs/?username=lexer20&layout=compact&langs_count=6)](https://github.com/lexer20/github-readme-stats)
 
 </details>
 <br>
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksigei)](https://github.com/lexer20/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexer20)](https://github.com/lexer20/github-readme-stats)
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=lexer20&=chartreuse-dark"></p>
+<br>
+<p>
+  <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=lexer20&=chartreuse-dark">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=lexer20)
