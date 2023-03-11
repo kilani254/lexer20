@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Twitter Link](https://img.shields.io/twitter/follow/kajaba_14?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat)](https://twitter.com/kajaba_14)
+[![Twitter Link](https://img.shields.io/twitter/follow/kajaba_14?color=1DA1F2&label=%kajaba_14&logo=Twitter&style=flat)](https://twitter.com/kajaba_14)
 [![Dev.to link](https://img.shields.io/badge/dev.to/lexer20%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/lexer20)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/dennis-muriithi-b69989261%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/dennis-muriithi-b69989261/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/lexer.20%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lexer.20/)
