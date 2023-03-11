@@ -1,6 +1,6 @@
 <!-------------------------------------------------------Hi there, I'm Dennis------------------------------>
 <div align="center">
-  <h1>Hi there, I'm <a href="https://twitter.com/kajaba_14" target="_blank">lexer20</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm <a href="https://twitter.com/kajaba_14" target="_blank">Dennis</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <!--div align="center">
   <h3>💻 Inf0rmation Techn0l0gy Undergrad | :Africa: Nair0bi, Kenya <h3>  
