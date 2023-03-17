@@ -78,7 +78,7 @@
 <details>
  
 ---
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dennis muriithi&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctrl-root&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrl-root&show_icons=true&theme=transparent)
