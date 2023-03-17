@@ -76,14 +76,31 @@
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
 <details>
-  <summary>:zap: <b>Github Stats</b></summary>
-
  
-  [![DennisMuriithi's github stats](https://github-readme-stats.ctrl-root.vercel.app/api?username=ctrl-root&show_icons=true)](https://github.com/ctrl-root/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.dennismuriithi.vercel.app/api/top-langs/?username=ctrl-root&layout=compact&langs_count=6)](https://github.com/ctrl-root/github-readme-stats)
-	
+---
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dennis muriithi&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrl-root&show_icons=true&theme=transparent)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-root&layout=compact&theme=buefy&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-<br>
+  
+  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
+<!-- Working Tools    -->
+  
 
-![](https://komarev.com/ghpvc/?username=ctrl-root)
+<a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
+<a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80">
+<a href="https://git-scm.com/">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="80">
+<a href="https://github.com/">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="80">
+<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="80">
+<a href="https://www.raspberrypi.org">  <img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"  width="80">
+<a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="80">
+<a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="80">
+<a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="80">
+ 
+ 
+---
+  
