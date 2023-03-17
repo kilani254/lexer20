@@ -72,11 +72,6 @@
 <h2>Latest Posts</h2>
 <ul>
 <li><a href="https://dev.to/lexer20/school_website"><b> ☁️ School website</b></a><br></li>
-
-<!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
-<br>
-<details>
- 
 ---
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctrl-root&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
