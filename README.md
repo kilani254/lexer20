@@ -29,21 +29,6 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kajaba_14?color=1DA1F2&label=%40mrx&logo=Twitter&style=flat-square">
 -->
 
-<!-------------------------------------------------------Tools and Technologies----------------------------------------->
-
-<h2>Tools and Technologies</h2>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 <!------------------------------------------------------Experience----------------------------------->														
 <h2>Experience</h2>
 <table>
