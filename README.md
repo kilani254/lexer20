@@ -52,12 +52,6 @@
   </tbody>
 </table>
 
-
-<!--------------------------------------------------------Latest Blog Posts------------------------------------->
-<h2>Latest Posts</h2>
-<ul>
-<li><a href="https://dev.to/lexer20/school_website"><b> ☁️ School website</b></a><br></li>
-<li><a href="https//dev.to/lexer20/react_portfolio"><b> 💀 portfolio</></a><br></li>
 	
 	
 	
