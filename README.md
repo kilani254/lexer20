@@ -1,6 +1,6 @@
 <!-------------------------------------------------------Hi there, I'm Dennis------------------------------>
 <div align="center">
-  <h1>Hi there, I'm <a href="https://twitter.com/kajaba_14" target="_blank">Dennis</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm <a href="https://twitter.com/toor_ctrl" target="_blank">Dennis</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <!--div align="center">
   <h3>💻 Inf0rmation Techn0l0gy Undergrad | :Africa: Nair0bi, Kenya <h3>  
@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Dev.to link](https://img.shields.io/badge/dev.to/lexer20%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/lexer20)
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/lexer20%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/lexer20/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/ctrl-root%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/ctrl-root/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/lexer.20%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lexer.20/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@lexer20-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@lexer20)
 </div>
