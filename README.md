@@ -20,7 +20,7 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
-  <p>I am Muriithi Dennis, currently pursuing my bachelor's degree majoring in Information Technology at Karatina University. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.</p> 
+  <p>I am Muriithi Dennis, currently pursuing my bachelor's degree majoring in Information Technology at <a href="https://karu.ac.ke" target="_blank">Karatina University</a>. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.</p> 
   <p>Besides programming, I love interacting with the Developer Community through Community Building, Organising or Speaking at meetups, workshops or hackathons.   </p>
   
 </div>
