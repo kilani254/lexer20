@@ -4,7 +4,7 @@
 </div>
 <!--div align="center">
   <h3>💻 Inf0rmation Techn0l0gy Undergraduate | :Africa: Nair0bi, Kenya <h3>  
-</div-->
+</div>
 
 <!----------------------------------------------------Social links------------------------------------------->
 
